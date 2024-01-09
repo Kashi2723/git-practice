@@ -13,8 +13,8 @@ if __name__ == "__main__":
     car1 = Car("Nexon","EV")
     car1.display()
 
-
-def addition(a,bc):
+# addition code
+def addition(a,b,c):
     print(a+b+c)
     return a + b + c
 
