@@ -14,8 +14,9 @@ if __name__ == "__main__":
     car1.display()
 
 
-def addition(a,b):
-    return a + b
+def addition(a,bc):
+    print(a+b+c)
+    return a + b + c
 
 def multiplication(a,b):
     return a*b
